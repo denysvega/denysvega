@@ -10,5 +10,5 @@
 
 ### Github Stats
 <a href="https://github.com/denysvega">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denysvega&show_icons=true&theme=github&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denysvega&show_icons=true&theme=github&count_private=true" alt="Denys Vega's GitHub Stats" />
 </a>
