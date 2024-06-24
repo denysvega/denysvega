@@ -1,7 +1,7 @@
 ## Hey there, I'm [Denys](https://www.linkedin.com/in/dbvega87/) 👋
 
 <p>
-    An experienced Software Engineer with more than 12 years professional experience. Specializing in software development for desktop, mobile and web following the best practices and conventions, building applications using .NET, Xamarin and Angular. Love challenges, clean and optimum solutions.
+    As an experienced Software Engineer with over 12 years of professional experience, I specialize in software development for desktop, mobile, and web applications. I adhere to best practices and conventions, leveraging technologies such as .NET, MAUI(Xamarin), Angular and others. My passion lies in tackling challenges and creating clean, optimal solutions.
 </p>
 <p align="left">  
     <a href="https://linkedin.com/in/dbvega87"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
